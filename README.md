@@ -85,3 +85,7 @@ Planned features and improvements include:
 * Chart.js
 * Sentry
 * Plaid API
+
+## Contact
+
+For inquiries or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nitin-sharma-coder/).
