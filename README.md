@@ -62,11 +62,7 @@ Contributions are welcome! To contribute:
     ```
 
 * Submit a pull request.
-## Testing
-To run tests for this project, use the following command:
-```bash
-npm test
-```
+
 ## Deployment
 This application is deployed using Vercel. To deploy your own version, follow these steps:
 
